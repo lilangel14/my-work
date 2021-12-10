@@ -1,0 +1,493 @@
+/* media-1065-1200 */
+/* media-850-1064 */
+/* media-759-849 */
+/* media-577-768 */
+/* media-screen-576 */
+@media (min-width:1065px)  and (max-width:1200px) {
+
+    .nav-link{
+        font-size: 20px;
+    }
+    .header-text h1{
+        font-size: 40px !important;
+    }
+    .header-text p{
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 20px;
+    }
+    .text-1 h5{
+        font-size: 16px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 170px;
+    }
+    .h1-1{
+        font-size: 35px;
+    }
+    .box-2 p{
+        font-size: 18px;
+    }
+    .h1-2{
+        font-size: 35px;
+        margin: 280px 0;
+    }
+    .card-effect{
+        text-align: center !important;
+    }
+   .user-card h3{
+    font-size: 20px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .footer-block{
+    width: 90%;
+    margin: 70px auto;
+   }
+   .footer-block img{
+       width: 500px;
+       height: 120%;
+   }
+   .footer-text h1{
+       width: 230px;
+       font-size: 30px;
+       margin-left: 660px;
+   }
+   .footer-text p{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 630px;
+}
+   .box-9 input{
+       width: 190px;
+       height: 35px;
+       margin-right: 50px;
+   }
+   .box-9 button{
+    width: 65px;
+    height: 27px;
+   }
+   .dd .col-3{
+    font-size: 17px;
+   }
+   .dd .col-2{
+    font-size: 15px;
+   }
+   .come{
+       font-size: 10px;
+   }
+}
+@media (min-width:850px)  and (max-width:1064px) {
+
+    .nav-link{
+        font-size: 15px;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date-item{
+        width: 30%;
+    }
+    .date-item h4{
+        font-size: 15px;
+    }
+    .text-1 h5{
+        font-size: 15px;
+        height: 40px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 165px;
+    }
+    .h1-1{
+        font-size: 25px
+    }
+    .box-2 p{
+        font-size: 16px;
+    }
+    .h1-2{
+        font-size: 25px;
+        margin: 280px 0; 
+    }
+    .card-effect{
+        text-align: center !important;
+    }
+   .user-card h3{
+    font-size: 15px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .footer-block{
+    width: 90%;
+    margin: 70px auto;
+   }
+   .footer-block img{
+       width: 500px;
+       height: 120%;
+   }
+   .footer-text h1{
+       width: 230px;
+       font-size: 30px;
+       margin-left: 660px;
+   }
+   .footer-text p{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 630px;
+}
+   .box-9 input{
+       width: 190px;
+       height: 35px;
+       margin-right: 50px;
+   }
+   .box-9 button{
+    width: 65px;
+    height: 27px;
+   }
+   .dd .col-3{
+    font-size: 17px;
+   }
+   .dd .col-2{
+    font-size: 15px;
+   }
+   .come{
+       font-size: 10px;
+   }
+}
+/* @media (min-width:759px)  and (max-width:849px) {
+
+    .nav-link{
+        width: 80px;
+        font-size: 12px;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date-item{
+        width: 30%;
+    }
+    .date-item h4{
+        font-size: 15px;
+    }
+    .text-1 h5{
+        font-size: 15px;
+        height: 40px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 165px;
+    }
+    .h1-1{
+        font-size: 25px
+    }
+    .box-2 p{
+        font-size: 16px;
+    }
+    .h1-2{
+        font-size: 25px;
+        margin: 280px 0; 
+    }
+    .card-effect{
+        text-align: center !important;
+    }
+   .user-card h3{
+    font-size: 15px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .footer-block{
+    width: 90%;
+    margin: 70px auto;
+   }
+   .footer-block img{
+       width: 500px;
+       height: 120%;
+   }
+   .footer-text h1{
+       width: 230px;
+       font-size: 30px;
+       margin-left: 500px;
+   }
+   .footer-text p{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 530px;
+}
+   .box-9 input{
+       width: 190px;
+       height: 35px;
+       margin-right: 50px;
+   }
+   .box-9 button{
+    width: 65px;
+    height: 27px;
+   }
+   .dd .col-3{
+    font-size: 17px;
+   }
+   .dd .col-2{
+    font-size: 15px;
+   }
+   .come{
+       font-size: 10px;
+   }
+}
+@media (min-width:577px)  and (max-width:768px) {
+    .navbar{
+        border: 1px solid rgb(11, 43, 184);
+    }
+    .carousel-mobile{
+        display: block;
+    }
+    .carousel-lg{
+        display: none;
+    }
+    .nav-link{
+        font-size: 15px;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date-item{
+        width: 30%;
+    }
+    .date-item h4{
+        font-size: 15px;
+    }
+    .text-1 h5{
+        font-size: 15px;
+        height: 40px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 165px;
+    }
+    .h1-1{
+        font-size: 25px
+    }
+    .box-2 p{
+        font-size: 16px;
+    }
+    .h1-2{
+        font-size: 25px;
+        margin: 280px 0; 
+    }
+    .card-effect{
+        text-align: center !important;
+    }
+   .user-card h3{
+    font-size: 15px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .footer-block{
+    width: 90%;
+    margin: 70px auto;
+   }
+   .footer-block img{
+       width: 500px;
+       height: 120%;
+   }
+   .footer-text h1{
+       width: 230px;
+       font-size: 30px;
+       margin-left: 660px;
+   }
+   .footer-text p{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 630px;
+}
+   .box-9 input{
+       width: 190px;
+       height: 35px;
+       margin-right: 50px;
+   }
+   .box-9 button{
+    width: 65px;
+    height: 27px;
+   }
+   .dd .col-3{
+    font-size: 17px;
+   }
+   .dd .col-2{
+    font-size: 15px;
+   }
+   .come{
+       font-size: 10px;
+   }
+}
+@media screen  and (max-width: 576px) {
+
+    .nav-link{
+        font-size: 15px;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date-item{
+        width: 30%;
+    }
+    .date-item h4{
+        font-size: 15px;
+    }
+    .text-1 h5{
+        font-size: 15px;
+        height: 40px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 165px;
+    }
+    .h1-1{
+        font-size: 25px
+    }
+    .box-2 p{
+        font-size: 16px;
+    }
+    .h1-2{
+        font-size: 25px;
+        margin: 280px 0; 
+    }
+    .card-effect{
+        text-align: center !important;
+    }
+   .user-card h3{
+    font-size: 15px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .footer-block{
+    width: 90%;
+    margin: 70px auto;
+   }
+   .footer-block img{
+       width: 500px;
+       height: 120%;
+   }
+   .footer-text h1{
+       width: 230px;
+       font-size: 30px;
+       margin-left: 660px;
+   }
+   .footer-text p{
+    width: 300px;
+    font-size: 18px;
+    margin-left: 630px;
+}
+   .box-9 input{
+       width: 190px;
+       height: 35px;
+       margin-right: 50px;
+   }
+   .box-9 button{
+    width: 65px;
+    height: 27px;
+   }
+   .dd .col-3{
+    font-size: 17px;
+   }
+   .dd .col-2{
+    font-size: 15px;
+   }
+   .come{
+       font-size: 10px;
+   }
+} */
